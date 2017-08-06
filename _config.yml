@@ -16,9 +16,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Welcome to my blog</p>
+     <h3>Welcome to my blog</h3>
 
-     <p>A place where I talk about things that I'm interested in</p>
+     <p>A place where I talk about things that I'm interested in.
+     <br>I also cross post on my Medium blog which can be found here <strong>https://medium.com/@andrewh.code</strong>
+     </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
